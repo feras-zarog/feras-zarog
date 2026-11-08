@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f5132,100:1e3a5f&height=200&section=header&text=Firas%20Alzarouq&fontSize=50&fontColor=ffffff&animation=fadeIn)
+<img src="banner.svg" width="100%" alt="Firas Alzarouq" />
 
 <h1 align="center">Hi 👋, I'm Firas Alzarouq</h1>
 <h3 align="center">Network & Telecommunication Engineer | Infrastructure Specialist | Libya 🇱🇾</h3>
